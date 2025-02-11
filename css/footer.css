@@ -1,21 +1,22 @@
 footer {
     position: fixed;
-    left: 0;
     bottom: 0;
     width: 100%;
+    height: auto;
     background-color: #777;
-    padding: 10px;
+    
     text-align: center;
     color: white;
-    margin-top: 10;
+    
+    
   }
 
   .div-footer {
     background: rgb(255, 30, 0);
     width:29%;
-    margin:auto;
+    margin:0;
     padding: 2%;
-   float: left;
+    display: inline-block;
    
     }
 .h1-footer {
